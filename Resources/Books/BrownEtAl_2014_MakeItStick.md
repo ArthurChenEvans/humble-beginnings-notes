@@ -1,18 +1,60 @@
-- A **mental model** is defined as a representation of an external reality such as the inner workings of an automotive engine. Brown et al use it here to refer to motor skills too known as **motor schemas**. (Ch1. P6)
-- Rereading is time consuming, does not produce durable memories, and it gives a false sense of mastery via familiarity (Ch1. P10).
-	- **Citation:** J. D. Karpicke, A. C. Butler, & H. L. Roediger, Metacognitive strategies in student learning: Do students practice retrieval when they study on their own?, Memory 17 (2010), 471-479
-- "Learning is stronger when it matters, when the abstract becomes concrete and personal" (Ch1. P11)
-- Pure repetition without retrieval is futile. Examples used on recalling details of a penny or where a fire extinguisher is located. Even with years of repetitive **exposure** (Ch1. P13).
-	- **Citation (penny):** R. S. Nickerson & M. J. Adams, Long term memory of a common object, Cognitive Psychology 11 (1979), 287-307
-	- **Citation (fire extinguisher):** A. D. Castel, M. Vendetti, & K. J. Holyoak, Inattentional blindness and the location of fire extinguishers, Attention, Perception and Performance 74 (2012), 1391-1396.
-- Finding out that repetition by itself was not enough for learning was from Endel Tulving (Ch1. P14).
-	- **Citation:** E. Tulving, Subjective organization and the effects of repetition in multi-trial free recall learning, Journal of Verbal Learning and Verbal Behavior 5 (1966), 193-197.
-- Rereading does not produce much benefit if at all. Also, students (up to the book being written in 2014), seem to choose it, highlighting, and underlying as the most common strategies. (Ch1. P14-15)
-	- **Citation 1:** A. A. Callender & M. A. McDaniel, The limited benefits of rereading educational texts, Contemporary Educational Psychology 34 (2009), 30-41.
-	- **Citation 2:** Karpicke et al., Metacognitive strategies. Data were also taken from J. McCabe, Metacognitive awareness of learning strategies in undergraduates, Memory & Cognition 39 (2010), 462-476.
-- Rereading gives illusion of fluency. This is where students fail to recognise what areas they are weak in, as well as overestimate their mastery and proficiency in a skill (Ch1. P16).
-	- **Citation (overall):** How We Know What Isn't So: The Fallibility of Human Reason In Everyday Life, Thomas Gilovich, 1991.
-- "One cannot apply what one knows in a practical manner if one does not know anything to apply", (Ch1. P18).
-	- **Citation:** R. J. Sternberg, E. L. Grigorenko, & L. Zhang, Styles of learning and thinking matter in instruction and assessment, Perspectives on Psychological Science 3 (2008), 486-506.
-- Students in a middle school, Columbia, Illinois were put into two groups: 3 low stake quizzes (with feedback) over a semester and only 3 review sessions with no quizzes. Students who were quizzed averaged A-, while those who only reviewed averaged C+ (Ch1. P19).
-	- **Citation:** M. A. McDaniel, P. K. Agarwal, B. J. Huelser, K. B. McDermott, & H. L. Roediger (2011). Test-enhanced learning in a middle school science classroom: The effects of quiz frequency and placement. Journal of Educational Psychology, 103, 399-414.
+### Chapter 1
+
+- A **mental model** is defined as a representation of an external reality such as the inner workings of an automotive engine. Brown et al use it here to refer to motor skills too known as **motor schemas**. (Ch1. Pg6)
+- Rereading is time consuming, does not produce durable memories, and it gives a false sense of mastery via familiarity (Ch1. Pg10).
+    - **Citation:** J. D. Karpicke, A. C. Butler, & H. L. Roediger, Metacognitive strategies in student learning: Do students practice retrieval when they study on their own?, Memory 17 (2010), 471-479
+- "Learning is stronger when it matters, when the abstract becomes concrete and personal" (Ch1. Pg11)
+- Pure repetition without retrieval is futile. Examples used on recalling details of a penny or where a fire extinguisher is located. Even with years of repetitive **exposure** (Ch1. Pg13).
+    - **Citation (penny):** R. S. Nickerson & M. J. Adams, Long term memory of a common object, Cognitive Psychology 11 (1979), 287-307
+    - **Citation (fire extinguisher):** A. D. Castel, M. Vendetti, & K. J. Holyoak, Inattentional blindness and the location of fire extinguishers, Attention, Perception and Performance 74 (2012), 1391-1396.
+- Finding out that repetition by itself was not enough for learning was from Endel Tulving (Ch1. Pg14).
+    - **Citation:** E. Tulving, Subjective organisation and the effects of repetition in multi-trial free recall learning, Journal of Verbal Learning and Verbal Behavior 5 (1966), 193-197.
+- Rereading does not produce much benefit if at all. Also, students (up to the book being written in 2014), seem to choose it, highlighting, and underlying as the most common strategies. (Ch1. Pg14-15)
+    - **Citation 1:** A. A. Callender & M. A. McDaniel, The limited benefits of rereading educational texts, Contemporary Educational Psychology 34 (2009), 30-41.
+    - **Citation 2:** Karpicke et al., Metacognitive strategies. Data were also taken from J. McCabe, Metacognitive awareness of learning strategies in undergraduates, Memory & Cognition 39 (2010), 462-476.
+- Rereading gives illusion of fluency. This is where students fail to recognise what areas they are weak in, as well as overestimate their mastery and proficiency in a skill (Ch1. Pg16).
+    - **Citation (overall):** _How We Know What Isn't So: The Fallibility of Human Reason In Everyday Life_, Thomas Gilovich, 1991.
+- "One cannot apply what one knows in a practical manner if one does not know anything to apply", (Ch1. Pg18).
+    - **Citation:** R. J. Sternberg, E. L. Grigorenko, & L. Zhang, Styles of learning and thinking matter in instruction and assessment, Perspectives on Psychological Science 3 (2008), 486-506.
+- Students in a middle school, Columbia, Illinois were put into two groups: 3 low stake quizzes (with feedback) over a semester and only 3 review sessions with no quizzes. Students who were quizzed averaged A-, while those who only reviewed averaged C+ (Ch1. Pg19).
+    - **Citation:** M. A. McDaniel, P. K. Agarwal, B. J. Huelser, K. B. McDermott, & H. L. Roediger (2011). Test-enhanced learning in a middle school science classroom: The effects of quiz frequency and placement. Journal of Educational Psychology, 103, 399-414.
+
+---
+
+### Chapter 2
+
+- Early works on the forgetting curve were published by Hermann Ebbinghaus in 1885. This was translated later as "On Memory" in English in 1913. The latest version by him is "Memory: A contribution to experimental Psychology", published in New York: Dover, 1964. (Ch2. Pg28).
+- The power of the testing effect has been long known as early as Aristotle writing in his essay on memory: "exercise in repeatedly recalling a thing strengthens the memory". Francis Bacon and William James also wrote about this phenomenon (Ch2. Pg28).
+    - **Citation:** H. L. Roediger & J. D. Karpicke, The power of testing memory: Basic research and implications for educational practice, Perspectives on Psychological Science 1 (2006), 181-210.
+- "If memorisation is irrelevant to complex problem solving, then don't tell your neurosurgeon". (Ch2. Pg29)
+- "The stronger one's knowledge about the subject at hand, the more nuanced one's creativity can be in addressing a new problem". (Ch2. Pg29).
+- The first big study on retrieval was done in 1917 done on grade 3, 5, 6, and 8 children. Rereading vs looking up and reciting information. Test was free recall. Best results came from 60% time spent reciting. In other words, majority of time should be spent reciting over learning. Content was brief biographies from "Who's Who in America". (Ch2. Pg29).
+    - **Citation:** A. I. Gates, Recitation as a factor in memorising, Archives of Psychology 6 (1917)
+- The second was done in 1939. 3000+ sixth graders in Iowa, studying 600 word articles. Tests at various times + final test 2 months later. The longer the first delay, the greater the forgetting. Once a test was taken, forgetting nearly stopped, and subsequent scores on tests dropped very little (Ch2. Pg30.)
+    - **Citation:** H. F. Spitzer, Studies in retention, Journal of Educational Psychology 30 (1939), 641-656.
+- In 1967, a study showed that testing led to as much learning as repeated studying for word lists of thirty-six items. Results indicated that repeated testing, starting after the initial exposure, was highly effective in retaining knowledge over time. (Ch2. Pg30)
+    - **Citation:** E. Tulving, The effects of presentation and recall of material in free-recall learning, Journal of Verbal Learning and Verbal Behavior 6 (1967), 175–184.
+- Research in 1978 revealed that massed studying (cramming) resulted in higher immediate test scores but led to faster forgetting. Two days later, crammers had forgotten 50% of the material recalled initially, while those practising retrieval had forgotten only 13%. (Ch2. Pg31).
+- A subsequent study tested the effect of repeated tests on retention:
+    - Group A: Tested immediately recalled 53% initially but only 39% a week later.
+    - Group B: Not tested immediately recalled 28% a week later.
+    - Group C: Tested three times recalled 53% both immediately and a week later, effectively "immunising" against forgetting. This highlighted the superiority of spaced, repeated retrieval practice over single sessions. (Ch2. Pg32)
+    - **Citation:** M. A. Wheeler & H. L. Roediger, Disparate effects of repeated testing: Reconciling Ballard's (1913) and Bartlett's (1932) results, _Psychological Science_ 3 (1992), 240–245.
+- The "generation effect", that is, generating an answer based on a given cue (in this example, blanked out letters in word pairings) produced strong learning over restudy. Additionally, delaying the testing of that word with 20 intervening words produces greater retention than immediate retesting. Likely due to the difficulty provided by the delay. In other words, when **some** forgetting is allowed, retention improves. (Ch2. Pg32).
+    - **Citation:** L. L. Jacoby, On interpreting the effects of repetition: Solving a problem versus remembering a solution, Journal of Verbal Learning and Verbal Behaviour 17 (1978), 649-667.
+- In a Columbia middle school in 2005 and 2006, researchers took their laboratory studies to the classroom. For three semesters (1.5 years) lowstake multiple choice quizzes were given to students at the beginning of the class (assigned reading of to be learned material), end of the class, and a 24 hour review prior to unit test day. Non quizzed and simple statement of facts were added during the quizzes to prove re-exposure was not the cause of improvement. These quizzes only took a few minutes each. For the 2005 social studies class, students improved a whole letter grade. For 2006 science class (genetics and evolution), non-quizzed material was around a C- (79%) while quizzed material were an A- (92%). They also believe effects to be greater if retrieval practice happened once a month. (Ch2. Pg32-35).
+    - **Citation:** H. L. Roediger, P. K. Agarwal, M. A. McDaniel, & K. McDermott, Test-enhanced learning in the classroom: Long-term improvements from quizzing, Journal of Experimental Psychology: Applied 17 (2011), 382-395, and M. A. McDaniel, P. K. Agarwal, B. J. Huelser, K. B. McDermott, & H. L. Roediger, Test-enhanced learning in a middle school science classroom: The effects of quiz frequency and placement, Journal of Educational Psychology 103 (2011), 399-414.
+- Andrew Sobel found that by using multiple lower stake quizzes over the semesters compared to big larger ones improved his student attendance and performance. (Ch2. Pg36-37).
+- A test conducted on college students with scientific proses showed that with immediate test vs immediate restudy groups, the immediate test group outperformed the immediate restudy 2 days later with 68% vs 54% recall, and 56% vs 42% 1 week later. Another study was conducted on repeated tests vs repeated studying. Unsurprisingly, repeated studying did the worst, with forgetting 52% 1 week later, while repeated testing forgot only 10% a week later. (Ch2.Pg38-39).
+	- **Citation:** H. L. Roediger & J. D. Karpicke, Test-enhanced learning: Taking memory tests improve long-term retention, Psychological Science 17 (2006), 249-255.
+	- **Extra Citation WIth Similar Results:** C. P. Thompson, S. K. Wenger, & C. A. Bartling, How Recall facilitates subsequent recall: A reappraisal. Journal of Experimental Psychology: Human Learning and Memory 4 (1978), 210-211. 
+		- Showed that mass study produced more results on immediate tests but not on delayed tests.
+- In motor learning delayed feedback is better than immediate feedback. It's suggested the two reasons for this are that the feedback becomes a part of the skill, so that in the real world settings it's absence provides a "gap" in the skill. The other suggestion is that immediate feedback provides too many disruptions making the practice more variable and thus preventing a stabilized pattern of performance. This extends to academia with science. Students were shown the passage again even during the test - it was essentially an open book test. While outperforming those who waited till after the test for feedback immediately, those who received feedback after the test rather than after each question held their retention for longer. (Ch2. Pg39).
+	- **Citation:** A. C. Butler & H. L. Roediger, Feedback enhances the positive effects and reduces the negative effects of multiple-choice testing. Memory & Cognition 36 (2008), 604-616.
+		- Feedback strengthens retrieval practice. Suggests delaying feedback is better than immediate feedback. Suggests that it improves the positive and reduces the negative effects of multiple choice questions.
+	- **Citation on Motor Learning:** A. W. Salmoni, R. A. Schmidt, and C. B. Walter, Knowledge of results and motor learning: A review and critical reappraisal. Psychological Bulletin 95 (1984), 355-386.
+	- **Open Book Study Citation:** P. K. Agarwal, J. D. Karpicke, S. H. K. Kang, H. L. Roediger, & K. B. McDermott, Examining the testing effect with open- and closed-book tests, Applied Cognitive Psychology 22 (2008), 861-876.
+- Generally, more retrieval effort = more retrieval success. However, some studies suggest that multiple choice quizzes when given repeatedly and formatted correctly can provide as much positive effect in the classroom as short-answer can. (Ch2. Pg41).
+	- **Citations:** Studies comparing the types of tests are S. H. Kang, K. B. McDermott, H. L. Roediger, Test format and corrective feedback modify the effect of testing on long-term retention. European Journal of Cognitive Psychology 19 (2007), 528-558.
+	- M. A. McDaniel, J. L. Anderson, M. H. Derbish, & N. Morrisette, Testing the testing effect in the classroom. European Journal of Cognitive Psychology 19 (2007), 494-513.
+	- K. B. McDermott, P. K. Agarwal, L. D'Antonio, H. L. Roediger, & M. A. McDaniel, Both multiple-choice and short-answer quizzes enhance later exam performance in middle and high school classes, Journal of Experimental Psychology: Applied (in press).

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a63b246e5c94706c",
+            "id": "aa506d3490fbc6e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a63b246e5c94706c",
+  "active": "aa506d3490fbc6e8",
   "lastOpenFiles": [
     "Resources/Books/BrownEtAl_2014_MakeItStick.md"
   ]
