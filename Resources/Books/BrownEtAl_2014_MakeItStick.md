@@ -1,0 +1,18 @@
+- A **mental model** is defined as a representation of an external reality such as the inner workings of an automotive engine. Brown et al use it here to refer to motor skills too known as **motor schemas**. (Ch1. P6)
+- Rereading is time consuming, does not produce durable memories, and it gives a false sense of mastery via familiarity (Ch1. P10).
+	- **Citation:** J. D. Karpicke, A. C. Butler, & H. L. Roediger, Metacognitive strategies in student learning: Do students practice retrieval when they study on their own?, Memory 17 (2010), 471-479
+- "Learning is stronger when it matters, when the abstract becomes concrete and personal" (Ch1. P11)
+- Pure repetition without retrieval is futile. Examples used on recalling details of a penny or where a fire extinguisher is located. Even with years of repetitive **exposure** (Ch1. P13).
+	- **Citation (penny):** R. S. Nickerson & M. J. Adams, Long term memory of a common object, Cognitive Psychology 11 (1979), 287-307
+	- **Citation (fire extinguisher):** A. D. Castel, M. Vendetti, & K. J. Holyoak, Inattentional blindness and the location of fire extinguishers, Attention, Perception and Performance 74 (2012), 1391-1396.
+- Finding out that repetition by itself was not enough for learning was from Endel Tulving (Ch1. P14).
+	- **Citation:** E. Tulving, Subjective organization and the effects of repetition in multi-trial free recall learning, Journal of Verbal Learning and Verbal Behavior 5 (1966), 193-197.
+- Rereading does not produce much benefit if at all. Also, students (up to the book being written in 2014), seem to choose it, highlighting, and underlying as the most common strategies. (Ch1. P14-15)
+	- **Citation 1:** A. A. Callender & M. A. McDaniel, The limited benefits of rereading educational texts, Contemporary Educational Psychology 34 (2009), 30-41.
+	- **Citation 2:** Karpicke et al., Metacognitive strategies. Data were also taken from J. McCabe, Metacognitive awareness of learning strategies in undergraduates, Memory & Cognition 39 (2010), 462-476.
+- Rereading gives illusion of fluency. This is where students fail to recognise what areas they are weak in, as well as overestimate their mastery and proficiency in a skill (Ch1. P16).
+	- **Citation (overall):** How We Know What Isn't So: The Fallibility of Human Reason In Everyday Life, Thomas Gilovich, 1991.
+- "One cannot apply what one knows in a practical manner if one does not know anything to apply", (Ch1. P18).
+	- **Citation:** R. J. Sternberg, E. L. Grigorenko, & L. Zhang, Styles of learning and thinking matter in instruction and assessment, Perspectives on Psychological Science 3 (2008), 486-506.
+- Students in a middle school, Columbia, Illinois were put into two groups: 3 low stake quizzes (with feedback) over a semester and only 3 review sessions with no quizzes. Students who were quizzed averaged A-, while those who only reviewed averaged C+ (Ch1. P19).
+	- **Citation:** M. A. McDaniel, P. K. Agarwal, B. J. Huelser, K. B. McDermott, & H. L. Roediger (2011). Test-enhanced learning in a middle school science classroom: The effects of quiz frequency and placement. Journal of Educational Psychology, 103, 399-414.
