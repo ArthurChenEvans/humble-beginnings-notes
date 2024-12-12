@@ -58,3 +58,52 @@
 	- **Citations:** Studies comparing the types of tests are S. H. Kang, K. B. McDermott, H. L. Roediger, Test format and corrective feedback modify the effect of testing on long-term retention. European Journal of Cognitive Psychology 19 (2007), 528-558.
 	- M. A. McDaniel, J. L. Anderson, M. H. Derbish, & N. Morrisette, Testing the testing effect in the classroom. European Journal of Cognitive Psychology 19 (2007), 494-513.
 	- K. B. McDermott, P. K. Agarwal, L. D'Antonio, H. L. Roediger, & M. A. McDaniel, Both multiple-choice and short-answer quizzes enhance later exam performance in middle and high school classes, Journal of Experimental Psychology: Applied (in press).
+- Retrieval, in and of itself, improves memory (Ch2. Pg42):
+	- **Citation:** Arnold KM, McDermott KB. Test-potentiated learning: distinguishing between direct and indirect effects of tests. J Exp Psychol Learn Mem Cogn. 2013 May;39(3):940-5.
+- Exams pre-lesson and post-lesson both improve performance on final tests in the classroom (Ch2, Pg42-45):
+  - **Pre Citation:** Leeming, F. C. (2002). The exam-a-day procedure improves performance in psychology classes. _Teaching of Psychology, 29_(3), 210–212. [https://doi.org/10.1207/S15328023TOP2903_06](https://psycnet.apa.org/doi/10.1207/S15328023TOP2903_06)
+  - **Post Citation:** Lyle, K. B., & Crawford, N. A. (2011). Retrieving essential material at the end of lectures improves performance on statistics exams. _Teaching of Psychology, 38_(2), 94–97. [https://doi.org/10.1177/0098628311401587](https://psycnet.apa.org/doi/10.1177/0098628311401587)
+- Overview of testing (Ch2, Pg42-45):
+	- **Citation 1:** Roediger HL 3rd, Karpicke JD. The Power of Testing Memory: Basic Research and Implications for Educational Practice. Perspect Psychol Sci. 2006 Sep;1(3)
+	- **Citation 2:** Henry L. Roediger III, Adam L. Putnam, Megan A. Smith, Chapter One - Ten Benefits of Testing and Their Applications to Educational Practice, Editor(s): Jose P. Mestre, Brian H. Ross, Psychology of Learning and Motivation, Academic Press, Volume 55, 2011, Pages 1-36,
+---
+### Mix It Up
+- Beanbag study: Kerr R, Booth B. Specific and varied practice of motor skill. Percept Mot Skills. 1978 Apr;46(2):395-401
+- Interleaving consistently outperforms massed practice: Cepeda NJ, Pashler H, Vul E, Wixted JT, Rohrer D. Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychol Bull. 2006 May;132(3):354-80
+- Surgery Study: Moulton CA, Dubrowski A, Macrae H, Graham B, Grober E, Reznick R. Teaching surgical skills: what kind of practice makes perfect?: a randomized, controlled trial. Ann Surg. 2006 Sep;244(3):400-9.
+- Interleaving in mathematics: Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. _Instructional Science, 35_(6), 481–498.
+- Differences in practice strategy to motor memory consolidation: Kantak, S., Sullivan, K., Fisher, B. _et al._ Neural substrates of motor memory consolidation depend on practice structure. _Nat Neurosci_ **13**, 923–925 (2010). https://doi.org/10.1038/nn.2596
+- Anagram Study: Goode, M.K., Geraci, L. & Roediger, H.L. Superiority of variable to repeated practice in transfer on anagram solution. _Psychonomic Bulletin & Review_ **15**, 662–666 (2008). https://doi.org/10.3758/PBR.15.3.662
+- Learning Artist Styles: Kornell N, Bjork RA. Learning concepts and categories: is spacing the "enemy of induction"? Psychol Sci. 2008 Jun;19(6):585-92
+	- Kang, S. H. K. and Pashler, H. (2011). Learning painting styles: spacing is advantageous when it promotes discriminative contrast. Applied Cognitive Psychology, 26(1), 97-103. https://doi.org/10.1002/acp.1801
+- Discrimination with examples improves conceptual learning: Jacoby LL, Wahlheim CN, Coane JH. Test-enhanced learning of natural concepts: effects on recognition memory, classification, and metacognition. J Exp Psychol Learn Mem Cogn. 2010 Nov;36(6):1441-51.
+- : Larsen DP, Butler AC, Roediger HL 3rd. Repeated testing improves long-term retention relative to repeated study: a randomised controlled trial. Med Educ. 2009 Dec;43(12):1174-81.
+	- Larsen DP, Butler AC, Lawson AL, Roediger HL 3rd. The importance of seeing the patient: test-enhanced learning with standardized patients and written tests improves clinical application of knowledge. Adv Health Sci Educ Theory Pract. 2013 Aug;18(3):409-25.
+	- Larsen DP, Butler AC, Roediger HL 3rd. Comparative effects of test-enhanced learning and self-explanation on long-term retention. Med Educ. 2013 Jul;47(7):674-82.
+- On storage strength: Bjork, R. A., & Bjork, E. L. (1992). A new theory of disuse and an old theory of stimulus fluctuation. In A. F. Healy, S. M. Kosslyn, & R. M. Shiffrin (Eds.), _Essays in honor of William K. Estes, Vol. 1. From learning theory to connectionist theory; Vol. 2. From learning processes to cognitive processes_ (pp. 35–67). Lawrence Erlbaum Associates, Inc.
+	- Soderstrom NC, Bjork RA. Learning versus performance: an integrative review. Perspect Psychol Sci. 2015 Mar;10(2):176-99.
+- Do it enough times in different situations, then you'll be able to do it pretty well in whatever comes up in the field (Ch3.Pg61): Peter Brown interview of Vince Dooley, Feb.18 2012. - Quoted from Dooley. He also claims that mentally going through motions with maybe small physical movements help.
+---
+### Desirable Difficulties
+- The phrase originated from "A new theory of disuse and an old theory of stimulus fluctuation".
+- Scientists believe in encoding -> storage -> retrieval where forgetting can occur at any stage of this process (ch4. Pg72-73).
+- Papers on consolidation: McGaugh JL. Memory--a century of consolidation. Science. 2000 Jan 14;287(5451):248-51.
+	- Dudai Y. The neurobiology of consolidations, or, how stable is the engram? Annu Rev Psychol. 2004;55:51-86.
+	- Wamsley EJ, Stickgold R. Dreaming of a learning task is associated with enhanced memory consolidation: Replication in an overnight sleep study. J Sleep Res. 2019 Feb;28(1)
+- Endel Tulving suggests that your memories are **always** a product of information stored (memory traces) and cues in the environment. With stronger cues, weaker traces become accessible for recall. (Ch4. Pg76): Tulving, E. (1974). Cue-dependent forgetting. _American Scientist, 62_(1), 74–82.
+- Negative transfer = old learning interfering with new learning: Bjork, R. A. (2011). On the symbiosis of remembering, forgetting, and learning. In A. S. Benjamin (Ed.), _Successful remembering and successful forgetting: A festschrift in honor of Robert A. Bjork_ (pp. 1–22). Psychology Press.
+- Stored information = available. Retrieved information = accessible. Recognition tests provide more powerful cues than retrieval. (Ch4. Pg79).
+- Baseball players practicing hitting: Hall KG, Domingues DA, Cavazos R. Contextual interference effects with skilled baseball players. Percept Mot Skills. 1994 Jun;78(3 Pt 1):835-41.
+- **Reload** - the reconstruction of a concept or skill after delay: Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), _Psychology and the real world: Essays illustrating fundamental contributions to society_ (pp. 56–64). Worth Publishers.
+- **Reconsolidation** - reviving an original memory and consolidating it again (via retrieval practice typically). If new information added during reconsolidation, then the original memory will change: Chalkia A, Van Oudenhove L, Beckers T. Preventing the return of fear in humans using reconsolidation update mechanisms: A verification report of Schiller et al. (2010).
+	- Finn B, Roediger HL 3rd. Enhancing retention through reconsolidation: negative emotional arousal following retrieval enhances later recall. Psychol Sci. 2011 Jun;22(6):781-6.
+- Interleaving enhances inductive learning: Birnbaum, M.S., Kornell, N., Bjork, E.L. _et al._ Why interleaving enhances inductive learning: The roles of discrimination and retrieval. _Mem Cogn_ **41**, 392–402 (2013). https://doi.org/10.3758/s13421-012-0272-7
+- On more difficult text improving memory: McDaniel, M. A., Einstein, G. O., Dunay, P. K., & Cobb, R. E. (1986). Encoding difficulty and memory: Toward a unifying theory. _Journal of Memory and Language, 25_(6), 645–656. [https://doi.org/10.1016/0749-596X(86)90041-0](https://psycnet.apa.org/doi/10.1016/0749-596X(86)90041-0)
+	- Diemand-Yauman C, Oppenheimer DM, Vaughan EB. Fortune favors the bold (and the Italicized): effects of disfluency on educational outcomes. Cognition. 2011 Jan;118(1):111-5.
+	- Mannes, S. M., & Kintsch, W. (1987). Knowledge Organization and Text Organization. _Cognition and Instruction_, _4_(2), 91–115. http://www.jstor.org/stable/3233538
+- Generation improves retention: Jacoby, L. L. (1978). On interpreting the effects of repetition: Solving a problem versus remembering a solution. _Journal of Verbal Learning & Verbal Behavior, 17_(6), 649–667. [https://doi.org/10.1016/S0022-5371(78)90393-6](https://psycnet.apa.org/doi/10.1016/S0022-5371(78)90393-6)
+	- Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. _Journal of Experimental Psychology: Human Learning and Memory, 4_(6), 592–604. [https://doi.org/10.1037/0278-7393.4.6.592](https://psycnet.apa.org/doi/10.1037/0278-7393.4.6.592)
+	- Richland LE, Kornell N, Kao LS. The pretesting effect: do unsuccessful retrieval attempts enhance learning? J Exp Psychol Appl. 2009 Sep;15(3):243-57.
+- Write To Learn: Gingerich, K. J., Bugg, J. M., Doe, S. R., Rowland, C. A., Richards, T. L., Tompkins, S. A., & McDaniel, M. A. (2014). Active processing via write-to-learn assignments: Learning and retention benefits in introductory psychology. _Teaching of Psychology, 41_(4), 303–308. [https://doi.org/10.1177/0098628314549701](https://psycnet.apa.org/doi/10.1177/0098628314549701)
+- Errors can aid learning if not memory impaired: Huelser BJ, Metcalfe J. Making related errors facilitates learning, but learners do not know it. Mem Cognit. 2012 May;40(4):514-27.
+- Anxiety is **undesirable difficulty:** Autin F, Croizet JC. Improving working memory efficiency by reframing metacognitive interpretation of task difficulty. J Exp Psychol Gen. 2012 Nov;141(4):610-8.
